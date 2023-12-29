@@ -1,0 +1,5 @@
+h1:defines a heading level 1
+p:defines a paragraph of text.
+div:defines a container for HTML element.
+table:defines a table with rows and colums.
+img:add image.
